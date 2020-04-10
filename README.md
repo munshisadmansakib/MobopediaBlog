@@ -1,5 +1,5 @@
 # MobopediaBlog
-Implementation of WordPress theme customization as a Personal Project as a website using Xampp, where details of latest released phones is described.
+Implementation of WordPress theme customization as a Personal Project, where details of latest released phones is described in a website.
 
 ![](image/1.png)
 ![](image/2.png)
